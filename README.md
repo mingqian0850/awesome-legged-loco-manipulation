@@ -94,7 +94,7 @@ Research on wheel-legged, wheeled-legged, transformable, and other hybrid mobile
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Handroid: Bridging Dexterous Hand and Humanoid** | Ruogu Li et al. | arXiv | Reconfigurable Humanoid / Dexterous Hand | [Paper](https://arxiv.org/abs/2607.16187) · [Project](https://handroid.org/) · [Code](https://github.com/ruoguliii/handroid) |
 
 ---
 
