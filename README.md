@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **ContactMimic: Humanoid Object Interaction via Contact Control** | Xinyao Li et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2607.08742) · [Project](https://lixinyao11.github.io/contactmimic-page/) · [Code](https://github.com/lixinyao11/ContactMimic) |
 
 ---
 
