@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Teleopit: A Full-Embodiment Humanoid Teleoperation System** | Bingqian Wu et al. | arXiv | Unitree G1 + Dexterous Hands | [Paper](https://arxiv.org/abs/2608.01834) · [Project](https://botrunner64.github.io/teleopit-page/) · [Code](https://github.com/BotRunner64/Teleopit) |
 
 ---
 
