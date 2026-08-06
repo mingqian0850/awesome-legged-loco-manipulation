@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Vision-Based Dribbling for Humanoid Soccer via Privileged Representation Learning** | Flavio Maiorana et al. | arXiv | Booster T1 Humanoid (Simulation) | [Paper](https://arxiv.org/abs/2607.12702) |
 
 ---
 
