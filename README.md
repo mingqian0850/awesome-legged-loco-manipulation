@@ -55,6 +55,7 @@ Research on quadruped robots equipped with one or more dedicated manipulator arm
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
+| 2026 | **TAC-LOCO: Unified Whole-Body Control for Quadrupedal TACtile-Informed LOCO-Manipulation** | Muqun Hu et al. | arXiv | Unitree Go2 + WidowX 250 Arm + Tactile Gripper | [Paper](https://arxiv.org/abs/2607.10132) |
 | 2025 | **WildLMa: Long-Horizon Loco-Manipulation in the Wild** | Ri-Zhao Qiu et al. | ICRA | Unitree B1 + Z1 Arm | [Paper](https://arxiv.org/abs/2411.15131) · [Project](https://wildlma.github.io/) · [Video](https://youtu.be/pNBMiHYn5tg) |
 | 2025 | **QuadWBG: Generalizable Quadrupedal Whole-Body Grasping** | Jilong Wang et al. | ICRA | Unitree B1 + Z1 Arm | [Paper](https://arxiv.org/abs/2411.06782) · [Project](https://quadwbg.github.io/) · [Video](https://www.youtube.com/playlist?list=PLHt_fpvZmCueMLXLwx16qaJgBXRNfMSMa) |
 | 2025 | **RoboDuet: Learning a Cooperative Policy for Whole-Body Legged Loco-Manipulation** | Guoping Pan et al. | RA-L | Unitree Go1 / Go2 / A1 + ARX5 | [Paper](https://arxiv.org/abs/2403.17367) · [Project](https://locomanip-duet.github.io/) · [Code](https://github.com/locomanip-duet/RoboDuet) |
