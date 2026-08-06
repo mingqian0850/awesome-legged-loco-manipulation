@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2025 | **Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning** | Nicolas Kosanovic et al. | Humanoids | ROBOTIS OP3 | [Paper](https://arxiv.org/abs/2607.20399) |
 
 ---
 
