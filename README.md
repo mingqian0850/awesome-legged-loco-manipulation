@@ -74,7 +74,7 @@ Research on non-humanoid bipedal robots equipped with externally mounted robotic
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **ω-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation** | Zhe Li et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2608.06375) |
 
 ---
 
