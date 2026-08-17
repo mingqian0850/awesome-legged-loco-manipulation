@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Developing Combined Manipulation and Locomotion Skills with Interaction Representation and Skill Composition** | Fanxing Meng and Jing Xiao | arXiv | Simulated 72-DoF Humanoid | [Paper](https://arxiv.org/abs/2608.00208) · [Video](https://youtu.be/x-7x89fSJWY) |
 
 ---
 
