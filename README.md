@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-Manipulation via Hierarchical Action Flow and Spectral Latent RL** | Langzhe Gu et al. | arXiv | Humanoid (TienKung 2.0 / 3.0) | [Paper](https://arxiv.org/abs/2608.16837) · [Project](https://grange007.github.io/HAF) |
 
 ---
 
