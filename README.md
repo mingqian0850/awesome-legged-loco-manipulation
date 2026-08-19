@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences** | Omar Rayyan et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2608.17027) · [Project](https://orayyan.com/fetchman) |
 
 ---
 
