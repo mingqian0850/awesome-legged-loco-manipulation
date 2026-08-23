@@ -94,7 +94,7 @@ Research on wheel-legged, wheeled-legged, transformable, and other hybrid mobile
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Video2DoorTraversal: Push Door Traversal via Simulated Door Twins** | Xincheng Tang et al. | arXiv | Unitree A2-W + Z1 Arm | [Paper](https://arxiv.org/abs/2608.20251) · [Project](https://video2doortraversal.github.io/) |
 
 ---
 
