@@ -94,7 +94,7 @@ Research on wheel-legged, wheeled-legged, transformable, and other hybrid mobile
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation** | Siyuan Ma et al. | arXiv | Wheeled Quadruped + 6-DoF Arm | [Paper](https://arxiv.org/abs/2608.20114) |
 
 ---
 
