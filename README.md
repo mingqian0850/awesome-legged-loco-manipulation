@@ -94,7 +94,7 @@ Research on wheel-legged, wheeled-legged, transformable, and other hybrid mobile
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **TONAV: Task-Oriented Navigation and Action-Velocity Chunk Learning for Articulated Object Quadrupedal Mobile Manipulation** | Haoran Lin et al. | arXiv | Unitree Go2-W + Dual Piper Arms | [Paper](https://arxiv.org/abs/2608.22296) · [Project](https://haochen611.github.io/TONAV) |
 
 ---
 
