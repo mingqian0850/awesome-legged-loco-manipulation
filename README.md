@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **LAC: Linear and Angular Compliance for Humanoid Whole-body Control** | Yang Liu et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2608.25405) · [Project](https://lac-humanoid.github.io/) |
 
 ---
 
