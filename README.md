@@ -114,7 +114,7 @@ Research on multiple legged or mobile robots cooperating to transport, grasp, pu
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **GHOST in the Robots: Real-Time Exocentric Dual-Robot VR Teleoperation from Onboard Cameras** | Yichen Wei et al. | RA-L | 2× Boston Dynamics Spot + 6-DoF Arm | [Paper](https://arxiv.org/abs/2608.29080) · [Project](https://h2r.github.io/GHOST/) |
 
 ---
 
