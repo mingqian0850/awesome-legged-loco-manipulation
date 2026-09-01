@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Blind Dexterity: Whole-Body Humanoid Manipulation via Pure Proprioception** | Aditya Bhatt et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2608.29487) · [Project](https://aditya.bhatts.org/BlindDexterity/) |
 
 ---
 
