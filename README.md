@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **A System for Fast, Resilient, and Adaptable Loco-Manipulation Behaviors on Humanoid Robots** | Duncan Calvert et al. | arXiv | Unitree H1-2 / Alex (IHMC) | [Paper](https://arxiv.org/abs/2609.01518) · [Video](https://www.youtube.com/playlist?list=PLJK5CTyotYqsfgfnXb-09YNFeBose6uEY) |
 
 ---
 
