@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Learning Versatile Humanoid Manipulation with Touch Dreaming** | Yaru Niu et al. | arXiv | Unitree G1 + Dexterous Hands (Tactile) | [Paper](https://arxiv.org/abs/2604.13015) · [Project](https://humanoid-touch-dream.github.io/) · [Code](https://github.com/chrisyrniu/humanoid-touch-dream) · [Video](https://youtu.be/QT9J6zMlNpY) |
 
 ---
 
