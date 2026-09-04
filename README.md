@@ -94,7 +94,7 @@ Research on wheel-legged, wheeled-legged, transformable, and other hybrid mobile
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation** | Yutian Zhang et al. | arXiv | Deep Robotics M20S + 6-DoF Arm | [Paper](https://arxiv.org/abs/2609.03889) · [Project](https://ytydt-reuz.github.io/FWBC-VLA/) |
 
 ---
 
