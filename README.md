@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Unifying Physics-Based Humanoid Interaction with a Context-Conditioned Interaction Prior** | Jianan Li et al. | SIGGRAPH Asia | Simulated Humanoid | [Paper](https://arxiv.org/abs/2609.06591) · [Project](https://jiann-li.github.io/chip-project/) |
 
 ---
 
