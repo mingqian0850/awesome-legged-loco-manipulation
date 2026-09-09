@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **SkillX: Unified Multi-Skill Policy Learning for Humanoid Soccer** | Zhangchen Ye et al. | CoRL | Noetix E1 Humanoid | [Paper](https://arxiv.org/abs/2609.06718) · [Project](https://yzc0731.github.io/SkillX/) |
 
 ---
 
