@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| 2026 | **WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation** | Wongyun Yu et al. | ECCV | Simulated Humanoid + Dexterous Hands | [Paper](https://arxiv.org/abs/2607.06438) · [Project](https://wongyun-yu.github.io/wristmimic/) |
+| 2026 | **WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation** | Wongyun Yu et al. | ECCV | Simulated Humanoid + Dexterous Hands | [Paper](https://arxiv.org/abs/2607.06438) · [Project](https://wongyun-yu.github.io/wristmimic/) · [Code](https://github.com/duddns2048/WristMimic) |
 
 ---
 
