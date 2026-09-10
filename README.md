@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **ViBe: Visual Behavior Adaptation for Perceptive Humanoid Whole-Body Control** | Lokesh Krishna et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.09918) · [Project](https://lok-i.github.io/vibe-control/) · [Video](https://youtu.be/aHO-7R-ZH4o) |
 
 ---
 
