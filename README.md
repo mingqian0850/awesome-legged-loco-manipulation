@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **WholeBodyWAM: Generalizing Pre-trained World-Action Priors to Humanoid Loco-Manipulation via WBC-Grounded Coordination** | Zhuo Li et al. | arXiv | Unitree G1 + BrainCo Revo 2 Hands | [Paper](https://arxiv.org/abs/2609.16644) · [Project](https://wholebodywam.github.io/) |
 
 ---
 
