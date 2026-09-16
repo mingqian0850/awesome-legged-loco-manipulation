@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Weave: Learning Whole-Body Dexterous Loco-Manipulation from Human-Object Interactions** | Liu Cao et al. | arXiv | Unitree G1 + Inspire Hands | [Paper](https://arxiv.org/abs/2609.16683) · [Project](https://xiaohu-art.github.io/Weave/) · [Code](https://github.com/xiaohu-art/Weave) · [Dataset](https://huggingface.co/datasets/appolyn/Weave) |
 
 ---
 
