@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **KINO: A Keyframe Interface for VLM Planning and Whole-Body Control in Humanoid Loco-Manipulation** | Sitong Chen et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.18869) |
 
 ---
 
