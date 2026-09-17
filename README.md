@@ -74,7 +74,7 @@ Research on non-humanoid bipedal robots equipped with externally mounted robotic
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Learning Holistic Whole-Body Loco-Manipulation with a Bipedal Mobile Manipulator** | Zhongyu Chen et al. | arXiv | LimX TRON 1 + ARX L5 Arm | [Paper](https://arxiv.org/abs/2609.18930) |
 
 ---
 
