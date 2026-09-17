@@ -114,7 +114,7 @@ Research on multiple legged or mobile robots cooperating to transport, grasp, pu
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Learning Multi-Humanoid Pickup and Transport via Decentralized Object-Centric Control** | Bikram Pandit et al. | arXiv | 2× Agility Robotics Digit V3 | [Paper](https://arxiv.org/abs/2609.17824) · [Project](https://decmht.github.io/) · [Video](https://youtu.be/YqETuE8lRc8) |
 
 ---
 
