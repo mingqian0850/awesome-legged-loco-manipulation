@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **WholeBodyWAM: Learning Whole-Body World Action Models with Scalable Motion Priors** | Bowei Zhang et al. | arXiv | TianGong 3.0 Humanoid | [Paper](https://arxiv.org/abs/2609.18197) · [Project](https://zbzyjya.github.io/WholeBodyWAM/) |
 
 ---
 
