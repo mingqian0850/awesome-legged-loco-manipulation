@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots** | Zejie Tian et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.19340) · [Project](https://viloman-anonymous.pages.dev/) |
 
 ---
 
