@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction** | Zeyu Han et al. | arXiv | Simulated Humanoid | [Paper](https://arxiv.org/abs/2609.19688) · [Project](https://neu-vi.github.io/LYRIC/) |
 
 ---
 
