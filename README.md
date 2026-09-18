@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Learning Slope-Adaptive Whole-Body Locomotion for Humanoid Robots in Roofing Construction** | Songyang Liu et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.20558) |
 
 ---
 
