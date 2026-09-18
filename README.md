@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework** | Tianshu Wu et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2605.20373) · [Project](https://tianshuwu.github.io/sugar-humanoid/) · [Code](https://github.com/tianshuwu/SUGAR) |
 
 ---
 
