@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Mechanical Precision Weeding with a Quadruped Robot** | Ruben Beumer et al. | arXiv | Boston Dynamics Spot + Weeding Tool | [Paper](https://arxiv.org/abs/2609.20048) · [Video](https://www.youtube.com/watch?v=KtmNKJLgfKo) |
 
 ---
 
