@@ -114,7 +114,7 @@ Research on multiple legged or mobile robots cooperating to transport, grasp, pu
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **PAINT: Partner-Agnostic Intent-Aware Cooperative Transport with Legged Robots** | Zhihao Cao et al. | RA-L | ANYmal (with/without Arm) | [Paper](https://arxiv.org/abs/2604.12852) · [Project](https://paint-bot.github.io) |
 
 ---
 
