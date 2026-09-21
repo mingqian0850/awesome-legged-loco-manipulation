@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Learning Distance-Conditioned Object Transport for Humanoid Loco-Manipulation from a Single Motion Clip** | Yuhyeon Hwang et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.21467) |
 
 ---
 
