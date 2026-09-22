@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **GeCCo -- a Generalist Contact-Conditioned Policy for Loco-Manipulation Skills on Legged Robots** | Vassil Atanassov et al. | IROS | ANYmal-D | [Paper](https://arxiv.org/abs/2509.17582) · [Project](https://vassil-atn.github.io/gecco.github.io) · [Video](https://www.youtube.com/watch?v=o8Dd44MkG2E) |
 
 ---
 
