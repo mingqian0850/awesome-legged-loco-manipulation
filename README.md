@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **STRIDER: Stepping-Enabled Multi-Gait Hierarchical 3D Loco-Manipulation Framework for Humanoid Robots** | Yuanzhuo Li et al. | arXiv | TianGong Omni | [Paper](https://arxiv.org/abs/2609.23483) · [Video](https://youtu.be/gf5RWjCZXtA) |
 
 ---
 
