@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2025 | **Thor: Towards Human-Inspired Whole-Body Reactions for Intense Contact-Rich Environments** | Gangyang Li et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2510.26280) |
 
 ---
 
