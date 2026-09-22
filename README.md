@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HIGenNTO: Scalable Humanoid Interaction Generation via Noise-Space Trajectory Optimization** | Lalit Jayanti et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.22611) · [Project](https://higennto.github.io) |
 
 ---
 
