@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Anticipatory Robot Goalkeeping via Monotone Optimal Stopping** | Hao E. Zhang et al. | arXiv | Unitree Go2 | [Paper](https://arxiv.org/abs/2609.23976) |
 
 ---
 
