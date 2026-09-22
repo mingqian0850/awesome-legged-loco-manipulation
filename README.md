@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Whole-Body UMI: Transferring UMI Manipulation Skills to Humanoid Whole-Body Manipulation via Real-Time Motion Generation** | Yuxuan Nai et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.22829) · [Project](https://wholebody-umi.github.io/) |
 
 ---
 
