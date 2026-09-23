@@ -114,7 +114,7 @@ Research on multiple legged or mobile robots cooperating to transport, grasp, pu
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **MATE: Multi-Agent Virtual Teleoperation Platform for Humanoid Collaboration Data Collection** | Yichuan Yu et al. | arXiv | Multiple Humanoids (simulated) + Physical Humanoid | [Paper](https://arxiv.org/abs/2609.26520) · [Project](https://yerik-yu.github.io/MATE/) |
 
 ---
 
