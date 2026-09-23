@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HOTICE: Whole-Body Humanoid Object Transportation in Cluttered Environments** | Toan Nguyen et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.25363) · [Project](https://hotice2027.github.io) |
 
 ---
 
