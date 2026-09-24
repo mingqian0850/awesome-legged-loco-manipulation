@@ -114,7 +114,7 @@ Research on multiple legged or mobile robots cooperating to transport, grasp, pu
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Duet: Dual-Robot Understanding via Efficient Teaching** | Yiqi Zhao et al. | arXiv | Unitree G1 + Dexmate Vega1 | [Paper](https://arxiv.org/abs/2606.20990) · [Project](https://zhaoy37.github.io/Duet/) · [Video](https://www.youtube.com/watch?v=zP8hsHgZ4Qg) |
 
 ---
 
