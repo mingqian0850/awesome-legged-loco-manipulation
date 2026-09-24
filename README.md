@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **DAVIS: A Depth-Only End-to-End Active-Vision Framework for Humanoid Soccer Skills** | Jiakang Jin et al. | arXiv | Noetix E1 Humanoid | [Paper](https://arxiv.org/abs/2609.28175) · [Project](https://thusi-lab.github.io/DAVIS/) |
 
 ---
 
