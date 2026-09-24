@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Banana Kick: Response-Informed Skill Evolution for Humanoid Soccer** | Hao E. Zhang et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.27269) |
 
 ---
 
