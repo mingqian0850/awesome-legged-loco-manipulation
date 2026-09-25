@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **DreamMimic: Learning Visuomotor Whole-Body Loco-Manipulation via World Model** | Jie Yin, Xingyu Lai | IROS | Humanoid (OMOMO / Unitree G1) | [Paper](https://arxiv.org/abs/2608.22278) · [Code](https://github.com/DreamMimic/DreamMimic) |
 
 ---
 
