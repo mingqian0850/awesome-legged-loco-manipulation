@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| 2026 | **ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation** | Xialin He et al. | IROS | Unitree G1 | [Paper](https://arxiv.org/abs/2603.03279) · [Project](https://ultra-humanoid.github.io/) · [Code](https://github.com/Sirui-Xu/ULTRA) |
+| 2026 | **ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation** | Xialin He et al. | IROS | Unitree G1 | [Paper](https://arxiv.org/abs/2603.03279) · [Project](https://ultra-humanoid.github.io/) · [Code](https://github.com/Sirui-Xu/ULTRA) · [Dataset](https://drive.google.com/file/d/1g6OzxXGJczZ4klVqKCpTzy-orKkllCr4/view) |
 
 ---
 
