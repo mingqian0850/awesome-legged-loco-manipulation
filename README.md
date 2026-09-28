@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Praxis: Distilling Physical Interaction Priors from Egocentric Videos for Generalizable Whole-Body Manipulation** | Shuliang He et al. | arXiv | Unitree G1 + BrainCo Revo2 Hands | [Paper](https://arxiv.org/abs/2609.30735) · [Project](https://edem-ai.github.io/Praxis/) |
 
 ---
 
