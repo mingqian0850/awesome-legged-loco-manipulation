@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HuGo: LLMs as Whole-Body Policy Code Designers for Humanoid Loco-Manipulation** | Seoyeon Choi et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.30594) · [Project](https://iconlab.negarmehr.com/HuGo/) |
 
 ---
 
