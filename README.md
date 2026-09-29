@@ -124,7 +124,7 @@ Surveys, benchmarks, datasets, simulation environments, and general-purpose reso
 
 | Year | Title | Authors / Organization | Type | Resources |
 | :--: | --- | --- | :---: | --- |
-| — | *No entries yet.* | — | — | — |
+| 2026 | **CoHuB: A Simulation Benchmark for Multi-Humanoid Collaboration** | Hyunjin Park et al. | Benchmark | [Paper](https://arxiv.org/abs/2609.34782) · [Project](https://meat124.github.io/CoHuB/) |
 
 ---
 
