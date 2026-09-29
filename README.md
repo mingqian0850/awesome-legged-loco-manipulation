@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HOI-Retarget: Contact-Centric Retargeting for Human-Object Interaction** | Jihwan Shin et al. | arXiv | Unitree G1 / H2 | [Paper](https://arxiv.org/abs/2609.34674) · [Project](https://shinben0327.github.io/hoi-retarget) · [Code](https://github.com/shinben0327/hoi-retarget) · [Dataset](https://huggingface.co/datasets/shinben0327/hoi-retarget) · [Video](https://www.youtube.com/watch?v=7J-2QV3piIk) |
 
 ---
 
