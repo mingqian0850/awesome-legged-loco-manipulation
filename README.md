@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation** | Chuan Qin et al. | arXiv | Unitree G1 + Wuji Hands | [Paper](https://arxiv.org/abs/2609.34199) · [Project](https://wb-wam.github.io/) · [Code](https://github.com/WB-WaM/WB-WAM-Official) · [Dataset](https://huggingface.co/WB-WAM) |
 
 ---
 
