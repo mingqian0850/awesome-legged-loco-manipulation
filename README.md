@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Humanoid Badminton: Learning Dynamic Racket Skills from Limited Human Motion Data** | Jingzhi Cui et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2609.31840) · [Project](https://sunlight02.github.io/humanoid-badminton/) |
 
 ---
 
