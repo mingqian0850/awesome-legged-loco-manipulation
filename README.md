@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **DexWeave: Learning Dexterous Humanoid Loco-Manipulation from Human Demonstrations** | Naichuan Sun et al. | arXiv | Unitree G1 + Inspire Hands | [Paper](https://arxiv.org/abs/2609.34724) · [Project](https://dexweave.github.io/) |
 
 ---
 
