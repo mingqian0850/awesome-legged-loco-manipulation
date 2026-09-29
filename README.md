@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Humanoid Loco-Manipulation With Discrete VLA Model** | Wenxin Shao et al. | arXiv | Unitree G1-comp + Dex3-1 Hands | [Paper](https://arxiv.org/abs/2609.35709) · [Project](https://horizonrobotics.github.io/gail/Holo-M/) |
 
 ---
 
