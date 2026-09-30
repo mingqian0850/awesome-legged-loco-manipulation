@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **KPI: A Promptable Kernel for Physical Interaction on Humanoids** | Yikai Wang et al. | arXiv | Unitree G1 + Dex3 Hands | [Paper](https://arxiv.org/abs/2609.36151) · [Project](https://kpi-robot.github.io/) |
 
 ---
 
