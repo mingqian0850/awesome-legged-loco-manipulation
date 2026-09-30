@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation** | Zihan Wang et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2609.38172) · [Project](https://prism-real2sim2real.github.io/) |
 
 ---
 
