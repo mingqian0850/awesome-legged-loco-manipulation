@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport** | Guillaume Besset et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.36602) · [Project](https://simple-robotics.github.io/publications/otretarget/) |
 
 ---
 
