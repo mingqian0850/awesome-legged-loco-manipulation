@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **EgoAlign: Bridging the Human-Humanoid Gap for Long-Range Loco-Manipulation** | Yiming Jiang et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.38046) · [Project](https://lambdahumanoid.github.io/EgoAlign/) |
 
 ---
 
