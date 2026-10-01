@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Locomotion-Grounded Humanoid Soccer: Task-Gated Reinforcement Learning of a Multi-Directional Kicking Library** | Abu Hanif Muhammad Syarubany et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.38852) |
 
 ---
 
