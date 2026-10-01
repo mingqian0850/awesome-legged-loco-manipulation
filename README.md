@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **CEER2: Directional and Tunable End-Effector and Root Compliance for Humanoid Loco-Manipulation** | Xinyuan Luo et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2609.38709) · [Project](https://ee-root-compliance.github.io/) |
 
 ---
 
