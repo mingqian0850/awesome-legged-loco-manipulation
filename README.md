@@ -124,7 +124,7 @@ Surveys, benchmarks, datasets, simulation environments, and general-purpose reso
 
 | Year | Title | Authors / Organization | Type | Resources |
 | :--: | --- | --- | :---: | --- |
-| — | *No entries yet.* | — | — | — |
+| 2026 | **Fiatlux: A Long-Horizon Benchmark for Humanoid Ladder Climbing and Light-Bulb Replacement** | Pavel Bushuyeu et al. | Benchmark | [Paper](https://arxiv.org/abs/2609.38216) · [Project](https://fiatlux-bench.github.io/) · [Code](https://github.com/haw-ai-i/fiatlux) · [Dataset](https://huggingface.co/datasets/haw-ai-i/fiatlux-teleoperation) |
 
 ---
 
