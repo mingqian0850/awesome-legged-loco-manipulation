@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation** | Zhuo Lin et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.02196) · [Project](https://sirui-xu.github.io/InterEvolve) |
 
 ---
 
