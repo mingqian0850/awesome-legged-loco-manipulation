@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **AdaptManip: Learning Adaptive Whole-Body Object Lifting and Delivery with Online Recurrent State Estimation** | Morgan Byrd et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2602.14363) · [Project](https://morganbyrd03.github.io/adaptmanip/) |
 
 ---
 
