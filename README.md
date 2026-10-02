@@ -124,7 +124,7 @@ Surveys, benchmarks, datasets, simulation environments, and general-purpose reso
 
 | Year | Title | Authors / Organization | Type | Resources |
 | :--: | --- | --- | :---: | --- |
-| — | *No entries yet.* | — | — | — |
+| 2026 | **HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution** | Kyochul Jang et al. | Benchmark | [Paper](https://arxiv.org/abs/2610.02089) · [Project](https://snu-pi.github.io/HumanoidToolBench/) · [Code](https://github.com/SNU-PI/HumanoidToolBench) · [Dataset](https://huggingface.co/datasets/snupilab/humanoidtoolbench-teleop) |
 
 ---
 
