@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **GOLEM: Modular Humanoid Autonomy Towards Electric Vehicle Battery Disassembly** | Max Conway et al. | arXiv | Unitree H1-2 | [Paper](https://arxiv.org/abs/2608.21550) · [Project](https://golem-humanoid.github.io) |
 
 ---
 
