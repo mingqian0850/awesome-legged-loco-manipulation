@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining** | Chongyang Xu et al. | arXiv | Unitree G1 + BrainCo Revo 2 Hands | [Paper](https://arxiv.org/abs/2610.00438) |
 
 ---
 
