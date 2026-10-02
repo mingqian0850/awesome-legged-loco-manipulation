@@ -114,7 +114,7 @@ Research on multiple legged or mobile robots cooperating to transport, grasp, pu
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **MASkillBlender: Decentralized Whole-Body Coordination for Multi-Humanoid Loco-Manipulation via Skill Blending** | Yifan Hu et al. | arXiv | Multiple Unitree H1 / G1 | [Paper](https://arxiv.org/abs/2610.01102) · [Project](https://maskillblender.github.io/) |
 
 ---
 
