@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating** | Haozhuo Zhang et al. | arXiv | Humanoid | [Paper](https://arxiv.org/abs/2610.08320) · [Project](https://haozhuo-zhang.github.io/Humanoid-Horizon-project-page/) |
 
 ---
 
