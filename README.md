@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Robust Nonprehensile Object Transport with Quadruped Robots** | Ainoor Teimoorzadeh et al. | arXiv | Quadruped | [Paper](https://arxiv.org/abs/2610.07245) |
 
 ---
 
