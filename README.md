@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Belief-Overlap Partial Inversion: Object-Centric Flow Replanning for Humanoid Loco-Manipulation** | Chen Yu et al. | arXiv | Humanoid | [Paper](https://arxiv.org/abs/2610.13087) |
 
 ---
 
