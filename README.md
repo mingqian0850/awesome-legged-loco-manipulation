@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Compositional Humanoid Manipulation through Isomorphic Teleoperation and Independent Skill Routing** | Yiming Wang et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.26169) |
 
 ---
 
