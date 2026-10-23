@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Co$^{2}$Skill: Whole-Body Control via Skill Composition for Long-Horizon Human-Environment Interaction** | Jeonghwan Kim et al. | arXiv | Simulated humanoid | [Paper](https://arxiv.org/abs/2610.09291) · [Project](https://canoneod.github.io/projects/coskill/) |
 
 ---
 
