@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Adaptive Whole-Body MPC with Optimal Posture Planning for Humanoid Robots under Unknown Payloads** | Manh Cuong Nguyen et al. | Humanoids | Humanoid | [Paper](https://arxiv.org/abs/2610.12972) |
 
 ---
 
