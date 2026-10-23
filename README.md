@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **VICAR: Video Imitation with Contact-Aware Retargeting for Humanoid Interactive Skills** | Dvij Kalaria et al. | arXiv | Humanoid | [Paper](https://arxiv.org/abs/2610.13079) |
 
 ---
 
