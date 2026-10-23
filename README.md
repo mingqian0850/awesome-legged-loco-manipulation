@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation** | Yucheng Zhang et al. | arXiv | Humanoid | [Paper](https://arxiv.org/abs/2610.06850) · [Project](https://sirui-xu.github.io/InterMimicGen) |
 
 ---
 
