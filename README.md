@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HWAM: Humanoid World Action Model With Joint State–Action Generation** | Yan Yang et al. | arXiv | Humanoid | [Paper](https://arxiv.org/abs/2610.12026) |
 
 ---
 
