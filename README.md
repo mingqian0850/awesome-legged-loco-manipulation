@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Action-Aligned Latent Planning for Versatile Humanoid Loco-Manipulation** | Yutang Lin et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.24675) · [Project](https://fiberaa.github.io/) |
 
 ---
 
