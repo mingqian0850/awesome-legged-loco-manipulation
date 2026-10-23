@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Solving a Giant Rubik's Cube with a Quadruped Robot** | Lukas Amiet et al. | arXiv | ANYmal Quadruped | [Paper](https://arxiv.org/abs/2610.24610) · [Project](https://leggedrobotics.github.io/rubik-skills/) |
 
 ---
 
