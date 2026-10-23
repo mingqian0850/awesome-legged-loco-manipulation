@@ -124,7 +124,7 @@ Surveys, benchmarks, datasets, simulation environments, and general-purpose reso
 
 | Year | Title | Authors / Organization | Type | Resources |
 | :--: | --- | --- | :---: | --- |
-| — | *No entries yet.* | — | — | — |
+| 2026 | **BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation** | Zexi Zhang et al. | Benchmark | [Paper](https://arxiv.org/abs/2610.07594) · [Code](https://github.com/swirl-uk/BiGym2) |
 
 ---
 
