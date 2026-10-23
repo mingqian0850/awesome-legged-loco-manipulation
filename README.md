@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation** | Zhaohui Yang et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.30044) · [Project](https://sp-hlm.github.io/) |
 
 ---
 
