@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data** | Songbo Hu et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.09117) · [Project](https://hybridrobotics.github.io/workhorse/) |
 
 ---
 
