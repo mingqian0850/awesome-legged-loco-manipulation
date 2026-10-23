@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **KODA: Kinematics–Observation Data Alignment for Humanoid Learning from Human Egocentric Demonstration** | Zibo Zhou et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.21152) · [Code](https://github.com/Gamma-Robot/KODA) |
 
 ---
 
