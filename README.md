@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Humanoid SRL: Augmenting Humanoids with Supernumerary Limbs for Coordinated Loco-Manipulation** | Fukang Liu et al. | arXiv | Humanoid + Supernumerary Arm | [Paper](https://arxiv.org/abs/2610.25628) · [Project](https://humanoid-srl.github.io/) |
 
 ---
 
