@@ -114,7 +114,7 @@ Research on multiple legged or mobile robots cooperating to transport, grasp, pu
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Safe Multi-Robot Collaborative Transport Using Density Functions** | Jagannath Prasad Sahoo et al. | arXiv | Multiple Unitree Go2 | [Paper](https://arxiv.org/abs/2610.08441) · [Project](https://jaggu2606.github.io/go2-density-mpc-pushing/) |
 
 ---
 
