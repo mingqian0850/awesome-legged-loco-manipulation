@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control** | Langzhe Gu et al. | arXiv | Humanoid | [Paper](https://arxiv.org/abs/2610.26584) |
 
 ---
 
