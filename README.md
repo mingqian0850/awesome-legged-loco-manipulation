@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Inertially Significant Humanoid Teleoperation via Whole Body Model Predictive Control and Online Parameter Estimation** | James Foster et al. | arXiv | Humanoid | [Paper](https://arxiv.org/abs/2610.22176) |
 
 ---
 
