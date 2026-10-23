@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **I-BFM: Reward-Conditioned Robust Humanoid Interaction via Unsupervised Reinforcement Learning** | Ziqi Han et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.06129) · [Project](https://iamhardworking.github.io/I-BFM/) |
 
 ---
 
