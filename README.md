@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Motion Retargeting with Spatiotemporal Preferences for Humanoid Loco-Manipulation** | Xiongbo Shi et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.30540) |
 
 ---
 
