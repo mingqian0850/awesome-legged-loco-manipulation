@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **DiPLO: Self-distilled Diffusion Planning for Loco-manipulation** | Shafeef Omar et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.24847) |
 
 ---
 
