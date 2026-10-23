@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation** | Chenyuan Chen et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.31166) · [Project](https://memory-before-goal.github.io) |
 
 ---
 
