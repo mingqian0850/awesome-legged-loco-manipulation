@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HULK: Learning Whole-Body Forceful Loco-Manipulation for Humanoids** | An Dang et al. | ICRA | Unitree G1 | [Paper](https://arxiv.org/abs/2610.08970) |
 
 ---
 
