@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **LEGS: Fine-Tuning Teleop-Free VLAs for Humanoid Loco-manipulation in an Embodied Gaussian Splatting World** | Hojune Kim et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2606.01458) · [Project](https://hojjunekim.github.io/legs/) · [Code](https://github.com/hojjunekim/LEGS) |
 
 ---
 
