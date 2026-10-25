@@ -124,7 +124,7 @@ Surveys, benchmarks, datasets, simulation environments, and general-purpose reso
 
 | Year | Title | Authors / Organization | Type | Resources |
 | :--: | --- | --- | :---: | --- |
-| — | *No entries yet.* | — | — | — |
+| 2026 | **SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation** | Songlin Wei et al. | Benchmark | [Paper](https://arxiv.org/abs/2606.08278) |
 
 ---
 
