@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation** | Ilyass Taouil et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2606.06139) · [Video](https://youtu.be/DHiVz34QYlw) |
 
 ---
 
