@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes** | Yen-Jen Wang et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2606.30645) · [Project](https://vision-language-kinematics.github.io/) |
 
 ---
 
