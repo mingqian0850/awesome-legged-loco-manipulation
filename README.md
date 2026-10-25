@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HERO: Learning Humanoid End-Effector Control for Visual Whole-Body Open-Vocabulary Object Grasping** | Runpei Dong et al. | CoRL | Unitree G1 + Dex3 Hands | [Paper](https://arxiv.org/abs/2602.16705) · [Project](https://hero-humanoid.github.io/) · [Code](https://github.com/RunpeiDong/HERO) |
 
 ---
 
