@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **GRAIL: Generating Humanoid Loco-Manipulation from World Models** | Tianyi Xie et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2606.05160) · [Project](https://research.nvidia.com/labs/dair/grail/) · [Code](https://github.com/NVlabs/GRAIL) · [Dataset](https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-Locomanipulation-GRAIL) |
 
 ---
 
