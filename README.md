@@ -94,7 +94,7 @@ Research on wheel-legged, wheeled-legged, transformable, and other hybrid mobile
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **S2M-Trek: From Single to Multi-Sphere Transport via Per-Frame Deep Sets on a Wheel-Legged Robot** | Zong Chen et al. | CoRL | Wheel-Legged Quadruped | [Paper](https://arxiv.org/abs/2606.01332) |
 
 ---
 
