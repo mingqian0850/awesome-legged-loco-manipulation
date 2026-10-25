@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Pro-HOI: Perceptive Root-guided Humanoid-Object Interaction** | Yuhang Lin et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2603.01126) |
 
 ---
 
