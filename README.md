@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **OmniContact: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation** | Runyi Yu et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2606.26201) · [Project](https://omnicontact.github.io/) · [Code](https://github.com/Ingrid789/OmniContact) · [Dataset](https://huggingface.co/datasets/lightcone02/OmniContact-Dataset) |
 
 ---
 
