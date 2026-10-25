@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos** | Yinhuai Wang et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2602.02473) · [Project](https://wyhuai.github.io/human-x/) · [Code](https://github.com/wyhuai/HumanX) |
 
 ---
 
