@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning** | Kevin Lin et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2605.27724) · [Project](https://humanoidmimicgen.github.io/) · [Code](https://github.com/NVlabs/humanoidmimicgen) |
 
 ---
 
