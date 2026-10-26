@@ -114,7 +114,7 @@ Research on multiple legged or mobile robots cooperating to transport, grasp, pu
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying** | Ziyu Lin et al. | arXiv | 2× AgiBot A3 Humanoid | [Paper](https://arxiv.org/abs/2610.32460) |
 
 ---
 
