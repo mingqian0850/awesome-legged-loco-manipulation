@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Learning Force-Reactive Humanoid Loco-Manipulation** | Sihang Li et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.35862) · [Project](https://louis-leee.github.io/FLoRe/) |
 
 ---
 
