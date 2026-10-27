@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience** | Yang Liu et al. | arXiv | Unitree G1 + Inspire Hands | [Paper](https://arxiv.org/abs/2610.34186) · [Project](https://yliu-cs.github.io/HuGe/) · [Code](https://github.com/yliu-cs/HuGe) |
 
 ---
 
