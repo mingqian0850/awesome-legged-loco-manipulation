@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation** | SpatialtemporalAI | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.33446) · [Project](https://iiiiqiiii.github.io/motio/) |
 
 ---
 
