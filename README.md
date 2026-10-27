@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data** | Dianyi Yang et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2610.35075) · [Project](https://young-bit.github.io/zero-hlm/) · [Video](https://www.youtube.com/watch?v=jkrRp13nhVU) |
 
 ---
 
