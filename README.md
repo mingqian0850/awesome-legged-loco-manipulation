@@ -114,7 +114,7 @@ Research on multiple legged or mobile robots cooperating to transport, grasp, pu
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HA-DiPO: Diffusion Policy Optimization for Heterogeneous Cooperative Transport** | Xuebin Li et al. | arXiv | Unitree B2 + B2W | [Paper](https://arxiv.org/abs/2610.33584) · [Project](https://ha-dipo.github.io/) · [Code](https://github.com/ha-dipo/ha-dipo-sim2sim) |
 
 ---
 
