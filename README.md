@@ -94,7 +94,7 @@ Research on wheel-legged, wheeled-legged, transformable, and other hybrid mobile
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **ThinkLocoManip: A Whole-Body Control Agentic Harness for Legged Loco-Manipulation** | Nuo Chen et al. | arXiv | Lenovo BOT MX + Agilex PiPER Arm | [Paper](https://arxiv.org/abs/2610.34370) |
 
 ---
 
