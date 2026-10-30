@@ -124,7 +124,7 @@ Surveys, benchmarks, datasets, simulation environments, and general-purpose reso
 
 | Year | Title | Authors / Organization | Type | Resources |
 | :--: | --- | --- | :---: | --- |
-| 2026 | **LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation** | Dewei Wang et al. | Benchmark | [Paper](https://arxiv.org/abs/2610.30876) |
+| 2026 | **LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation** | Dewei Wang et al. | Benchmark | [Paper](https://arxiv.org/abs/2610.30876) · [Project](https://locomanilab.github.io/) |
 
 ---
 
