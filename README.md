@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **LLM-guided Planar Loco-Manipulation for Quadruped Robots** | Georges Jetti et al. | arXiv | Unitree Go2 | [Paper](https://arxiv.org/abs/2610.40248) · [Project](https://anonymousprojects-dev.github.io/LLM-guided-LocoManipulation-Quadrupeds/) |
 
 ---
 
