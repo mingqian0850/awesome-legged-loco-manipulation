@@ -94,7 +94,7 @@ Research on wheel-legged, wheeled-legged, transformable, and other hybrid mobile
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Online Learning of Heterogeneous Locomotion Dynamics under Reinforcement Learning Policies for Precise Loco-Manipulation** | Tianlin Zhang et al. | arXiv | M1 Wheel-Legged + Kinova Gen2 Arm | [Paper](https://arxiv.org/abs/2610.41892) · [Video](https://youtu.be/H-u8buk86C0) |
 
 ---
 
