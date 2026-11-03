@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Anchor 1: Precise and Stable Humanoid Control for Whole-Body Manipulation** | Caojun Wang et al. | arXiv | Humanoid (G1) | [Paper](https://arxiv.org/abs/2611.00193) |
 
 ---
 
