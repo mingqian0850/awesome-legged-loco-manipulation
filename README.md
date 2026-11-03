@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **ReContact: Reconstruct and Retarget Human Contacts from Video for Contact-Rich Humanoid Manipulation** | Zhongkai Gu et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2611.02968) · [Project](https://recontact-robot.github.io) |
 
 ---
 
