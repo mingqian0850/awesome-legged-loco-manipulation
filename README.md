@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **ReGATE: Recurrent Gated Visual Fusion for Reactive Humanoid-Object Interaction** | Hao Zhu et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2611.02871) |
 
 ---
 
