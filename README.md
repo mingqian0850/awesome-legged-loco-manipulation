@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Coordinating Humanoid Loco-Manipulation through Action-Conditioned Latent Foresight** | Ju Dong et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2611.04839) · [Project](https://ju6276.github.io/Action-Grounded-Foresight/) · [Dataset](https://huggingface.co/datasets/ju6276/Action-Conditioned-Latent-Foresight) |
 
 ---
 
