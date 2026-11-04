@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HLO-AMP: Hierarchical Loco-Manipulation from Object-Aware Motion Priors** | Jean-Pierre Sleiman et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2611.05113) · [Video](https://youtu.be/viR_ULnRDQQ) |
 
 ---
 
