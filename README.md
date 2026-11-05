@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **SCRUB: Contact-Based Surface-Frame Estimation for Force-Motion Control with an Armless Quadruped** | Sourav Selvaraj et al. | arXiv | Unitree Go1 + Trunk-Mounted Tool | [Paper](https://arxiv.org/abs/2611.06649) |
 
 ---
 
