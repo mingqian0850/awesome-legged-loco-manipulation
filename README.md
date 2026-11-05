@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation** | Mengjie Zhao et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2611.05507) · [Project](https://forcectrl.github.io/) |
 
 ---
 
