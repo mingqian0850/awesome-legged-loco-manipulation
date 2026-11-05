@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Perceptive Humanoid Motion from Simulation** | Siyuan Hu et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2611.06908) · [Project](https://apple-aiml-research.github.io/ml-halo/) · [Code](https://github.com/apple-aiml-research/ml-halo) |
 
 ---
 
