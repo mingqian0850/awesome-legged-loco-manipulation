@@ -104,7 +104,7 @@ Research in which robots manipulate objects using their legs, feet, bodies, or m
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Playing Soccer Like Humans Do: Learning Versatile and Agile Humanoid Soccer via Latent Motion Priors** | Haoyu Shao et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2611.06564) · [Project](https://soccerbot-humanoid.github.io/) |
 
 ---
 
