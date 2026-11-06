@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness** | Qingzhou Lu et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2611.08039) · [Project](https://hitch.axell.top/) |
 
 ---
 
