@@ -124,7 +124,7 @@ Surveys, benchmarks, datasets, simulation environments, and general-purpose reso
 
 | Year | Title | Authors / Organization | Type | Resources |
 | :--: | --- | --- | :---: | --- |
-| 2026 | **EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ** | Yunsong Zhou et al. | Dataset | [Paper](https://arxiv.org/abs/2610.18872) · [Project](https://internrobotics.github.io/egoexplorer.github.io/) |
+| 2026 | **EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ** | Yunsong Zhou et al. | Dataset | [Paper](https://arxiv.org/abs/2610.18872) · [Project](https://internrobotics.github.io/egoexplorer.github.io/) · [Code](https://github.com/InternRobotics/EgoExplorer) · [Dataset](https://huggingface.co/datasets/InternRobotics/EgoExplorer) |
 
 ---
 
