@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation** | Sirui Chen et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2512.14689) · [Project](https://nvlabs.github.io/CHIP/) · [Code](https://github.com/Ericcsr/CHIP_release) |
 
 ---
 
