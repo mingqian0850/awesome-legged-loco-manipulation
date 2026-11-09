@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References** | Tianshu Wu et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2611.09266) · [Project](https://tianshuwu.github.io/sugarv2-humanoid/) |
 
 ---
 
