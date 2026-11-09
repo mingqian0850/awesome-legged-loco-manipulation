@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **ForPC: Force-Aware Whole-Body Control for Precise Humanoid Cart Pushing** | ZhenYu Zou et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2611.08664) · [Project](https://roboforpc.github.io/) |
 
 ---
 
