@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **HuMI: Humanoid Whole-Body Manipulation from Humanoid-Free Demonstrations** | Ruiqian Nai et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2602.06643) · [Project](https://humanoid-manipulation-interface.github.io/) · [Code](https://github.com/Richard-coder-Nai/HuMI) · [Dataset](https://huggingface.co/collections/Richard-Nai/humi) |
 
 ---
 
