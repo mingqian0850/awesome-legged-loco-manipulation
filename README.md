@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation** | Yunheng Wang et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2611.11554) · [Project](https://kimodo-policy.github.io/) · [Code](https://github.com/kimodo-policy/kimodo-policy) · [Dataset](https://huggingface.co/datasets/YunhengWang/kimodo-policy) |
 
 ---
 
