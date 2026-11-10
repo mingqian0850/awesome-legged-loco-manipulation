@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **LessMimic: Versatile Humanoid-Object Interaction with Unified Distance Field Representations** | Yutang Lin et al. | NeurIPS | Unitree G1 | [Paper](https://arxiv.org/abs/2602.21723) · [Project](https://lessmimic.github.io/) |
 
 ---
 
