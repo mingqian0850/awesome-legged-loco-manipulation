@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **DreamVLA: From Generated Human Motions to Humanoid Vision-Language-Action Policies** | Kevin Park et al. | arXiv | Unitree G1 (simulated) | [Paper](https://arxiv.org/abs/2611.10872) · [Project](https://ember-center-berkeley.github.io/DreamVLA/) |
 
 ---
 
