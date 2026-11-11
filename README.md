@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **SplitAdapter: Load-Aware Humanoid Loco-Manipulation via Factorized Adaptation** | Jeonguk Kang et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2606.03297) · [Project](https://splitadapter.github.io/) |
 
 ---
 
