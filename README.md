@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| 2026 | **Energy-Based Policy Orchestration** | Weirui Ye et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2611.02546) · [Project](https://yewr.github.io/epo) |
+| 2026 | **Energy-Based Policy Orchestration** | Weirui Ye et al. | CoRL | Unitree G1 | [Paper](https://arxiv.org/abs/2611.02546) · [Project](https://yewr.github.io/epo) · [Code](https://github.com/YeWR/EPO) |
 
 ---
 
