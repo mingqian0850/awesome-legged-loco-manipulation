@@ -84,7 +84,7 @@ Research on humanoid robots performing coordinated locomotion, manipulation, and
 
 | Year | Title | Authors / Organization | Venue | Robot | Resources |
 | :--: | --- | --- | :---: | --- | --- |
-| — | *No entries yet.* | — | — | — | — |
+| 2026 | **FORGE: Force-Aware Multi-Granularity Control for Efficient Humanoid Loco-Manipulation** | Liangjun Xing et al. | arXiv | Unitree G1 | [Paper](https://arxiv.org/abs/2611.17142) · [Project](https://bb0928.github.io/forge/) · [Code](https://github.com/bb0928/FORGE) · [Video](https://www.bilibili.com/video/BV1qkYa6zEx6/) |
 
 ---
 
